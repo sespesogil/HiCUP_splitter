@@ -8,6 +8,6 @@ After filtering and deduplication this script is able to split trans-chromosomal
 
 ```./HiCUP_splitter.sh filtered_samfiles output_name```
 
-```filtered_samfiles``` = filtered samfiles output 
+```filtered_samfiles``` = filtered samfiles HICUP output 
 
 ```output_name``` = give a name to your file 
